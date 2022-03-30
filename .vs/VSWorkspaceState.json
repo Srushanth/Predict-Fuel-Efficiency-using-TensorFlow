@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\dnn_model",
+    "\\dnn_model\\assets",
+    "\\dnn_model\\variables"
+  ],
+  "SelectedNode": "\\dnn_model\\saved_model.pb",
+  "PreviewInSolutionExplorer": false
+}
